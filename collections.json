@@ -1,10 +1,10 @@
 {
     "UserInfo": [
         {
-            "Id": 1,
-            "FirstName": "shakil",
-            "LastName": "Rana",
-            "Profession": "Software Engineer"
+            "id": 1,
+            "firstName": "shakil",
+            "lastName": "Rana",
+            "profession": "Software Engineer"
         }
     ]
 }
