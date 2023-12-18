@@ -1,0 +1,120 @@
+{
+    "autocheck": [
+        {
+            "caseId": "cf85dab6-9ead-4791-9299-65977d1264f5",
+            "status": "OK",
+            "documents": [
+              {
+                "documentId": "2923",
+                "status": "OK",
+                "comment": "2923 some random comment",
+                "positions": [
+                  {
+                    "positionId": "0ce711b1-228c-41e7-9096-451bed29b5a9",
+                    "status": "SUCCESS",
+                    "price": 226.02,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "WORK",
+                        "status": "SUCCESS",
+                        "price": 226.02
+                      }
+                    ]
+                  },
+                  {
+                    "positionId": "1d12aa70-c032-4204-a5d0-7c0b8bb19831",
+                    "status": "SUCCESS",
+                    "price": 7254,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "WORK",
+                        "status": "SUCCESS",
+                        "price": 7254
+                      }
+                    ]
+                  },
+                  {
+                    "positionId": "",
+                    "status": "SUCCESS",
+                    "price": -226.02,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "NOT_AVAILABLE",
+                        "status": "SUCCESS",
+                        "price": -226.02
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "documentId": "302018",
+                "status": "OK",
+                "comment": "302018 some random comment",
+                "positions": [
+                  {
+                    "positionId": "db2468e5-3ba4-4ffb-a655-75e662cf3ef2",
+                    "status": "SUCCESS",
+                    "price": 160,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "WORK",
+                        "status": "SUCCESS",
+                        "price": 160
+                      }
+                    ]
+                  },
+                  {
+                    "positionId": "8ad52157-c043-4514-b57c-d169fe5e6b69",
+                    "status": "SUCCESS",
+                    "price": 1026.06,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "WORK",
+                        "status": "SUCCESS",
+                        "price": 1026.06
+                      }
+                    ]
+                  },
+                  {
+                    "positionId": "4152b9e7-c8a7-4bb4-a509-4449c45336f5",
+                    "status": "SUCCESS",
+                    "price": 650,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "WORK",
+                        "status": "SUCCESS",
+                        "price": 650
+                      }
+                    ]
+                  },
+                  {
+                    "positionId": "fc0bc42b-7906-42a9-bffd-555be06c17e9",
+                    "status": "SUCCESS",
+                    "price": 26.55,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "SURCHARGE",
+                        "status": "SUCCESS",
+                        "price": 26.55
+                      }
+                    ]
+                  },
+                  {
+                    "positionId": "755948a5-c5aa-4651-9056-54125e5bfef3",
+                    "status": "SUCCESS",
+                    "price": 8.85,
+                    "priceComponents": [
+                      {
+                        "priceClassification": "SURCHARGE",
+                        "status": "SUCCESS",
+                        "price": 8.85
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+        }
+    ]
+}
