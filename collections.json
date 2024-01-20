@@ -20,5 +20,103 @@
             "id": "2809c822-04d6-4b47-bad1-08e9a77fc48a",
             "src": "/promoBanner.png"
         }
+    ],
+    "FlashDeals": [
+        {
+            "id": "64ddb430-1042-4ea5-a53f-2b9517eec246",
+            "product": {
+                "name": "Iphone 15 Pro",
+                "src": "/flashDeal/iphone15Pro.jpg"
+            },
+            "reviews": {
+                "total": 15,
+                "rating": 4
+            },
+            "price": 1099,
+            "discount": {
+                "amount": 0,
+                "basePrice": 1099
+            }
+        },
+        {
+            "id": "6f868e70-f81f-47f2-9762-56c1771d8a1e",
+            "product": {
+                "name": "IPod Air 2",
+                "src": "/flashDeal/ipodAir2.jpg"
+            },
+            "reviews": {
+                "total": 20,
+                "rating": 4.5
+            },
+            "price": 149,
+            "discount": {
+                "amount": 10,
+                "basePrice": 159
+            }
+        },
+        {
+            "id": "1a204d03-f47b-4db4-98ec-c9bd7fdc12ea",
+            "product": {
+                "name": "Mac Air M1 Chip",
+                "src": "/flashDeal/macAirM1.jpg"
+            },
+            "reviews": {
+                "total": 1043,
+                "rating": 4.8
+            },
+            "price": 1299,
+            "discount": {
+                "amount": 100,
+                "basePrice": 1299
+            }
+        },
+        {
+            "id": "4a9d86f3-4118-4fc9-8f99-4ec4c99f76b0",
+            "product": {
+                "name": "Samsung A23 Ultra",
+                "src": "/flashDeal/samsungA23Ultra.jpg"
+            },
+            "reviews": {
+                "total": 2000,
+                "rating": 4.2
+            },
+            "price": 899,
+            "discount": {
+                "amount": 20,
+                "basePrice": 899
+            }
+        },
+        {
+            "id": "006fe827-c111-4e94-a330-b72e446058f3",
+            "product": {
+                "name": "Iphone 12 Pro",
+                "src": "/flashDeal/iphone12Pro.jpg"
+            },
+            "reviews": {
+                "total": 1900,
+                "rating": 4.5
+            },
+            "price": 359,
+            "discount": {
+                "amount": 10,
+                "basePrice": 359
+            }
+        },
+        {
+            "id": "8b8b2c9a-35bd-4dde-9982-54790a8482d7",
+            "product": {
+                "name": "Samsung s23 Ultra",
+                "src": "/flashDeal/samsungS23Ultra.jpg"
+            },
+            "reviews": {
+                "total": 1599,
+                "rating": 3.8
+            },
+            "price": 599,
+            "discount": {
+                "amount": 30,
+                "basePrice": 599
+            }
+        }
     ]
 }
